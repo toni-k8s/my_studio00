@@ -7,5 +7,6 @@ int main() {
 	std::min(1, 2);
 	std::max(1, 2);
 	//20:36
+	//20:37
 	return 0;
 }
