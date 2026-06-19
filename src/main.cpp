@@ -6,10 +6,7 @@ int main() {
 	std::cout << "Hello, World!" << std::endl;
 	std::min(1, 2);
 	std::max(1, 2);
-	//20:36
-	//20:37
-	//20:378
-	//20:379
-	//20:38
+
+	//20:39
 	return 0;
 }
