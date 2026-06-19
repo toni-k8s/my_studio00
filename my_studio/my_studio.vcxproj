@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{7c617b24-703c-4656-bd97-be25ee9ce6d6}</ProjectGuid>
+    <ProjectGuid>{B15BEC3B-4E55-9D9B-B447-B6962F7205B5}</ProjectGuid>
     <RootNamespace>mystudio</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
