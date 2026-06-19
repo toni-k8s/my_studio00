@@ -1,10 +1,5 @@
-#include <iostream>
-#include <algorithm>
-#include <iostream>
-
+#include <cmath>
 int main() {
-	std::cout << "Hello, World!" << std::endl;
-	std::min(1, 2);
-	std::max(1, 2);
+	std::abs(-5);
 	return 0;
 }
